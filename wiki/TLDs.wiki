@@ -1,0 +1,12 @@
+#summary Compatibility with different TLDS
+
+= Introduction =
+
+WHOIS output varies by TLD. This page keeps track of TLDs known to be OK and those that aren't.
+
+
+= Details =
+*100% Compatible*
+_.com_
+_.net_
+_.org_
