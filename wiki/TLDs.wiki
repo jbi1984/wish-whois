@@ -11,5 +11,5 @@ _.com_
 _.net_
 _.org_
 
-=No public WHOIS Server =
+*No public WHOIS Server *
 _.es_
