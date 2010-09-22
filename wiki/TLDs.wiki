@@ -10,3 +10,6 @@ WHOIS output varies by TLD. This page keeps track of TLDs known to be OK and tho
 _.com_
 _.net_
 _.org_
+
+=No public WHOIS Server =
+_.es_
