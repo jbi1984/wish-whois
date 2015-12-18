@@ -1,0 +1,14 @@
+# Introduction #
+
+WHOIS output varies by TLD. This page keeps track of TLDs known to be OK and those that aren't.
+
+
+# Details #
+**100% Compatible**
+_.com_
+_.info_
+_.net_
+_.org_
+
+**No public WHOIS Server**
+_.es_
